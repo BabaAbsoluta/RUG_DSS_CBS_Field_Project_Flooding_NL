@@ -1,0 +1,260 @@
+Organisatienummer,Organisatie,Naam,Straat,Nummer,Postcode,Plaats,Organisatiesoort,Type,Type_code,pc4,PC6
+,102401 Stichting Reinier Haga Groep,HagaZiekenhuis Zorgplein Westland,Zandeveltplein,3,2692 AH,’s-Gravenzande,Ziekenhuis,Buitenpolikliniek,3,,2692 2692AH
+,103701 Noordwest Ziekenhuisgroep,Noordwest Ziekenhuisgroep Alkmaar-Bergermeer,Comeniusstraat,3,1817 MS,Alkmaar,Ziekenhuis,Buitenpolikliniek,3,,1817 1817MS
+,103701 Noordwest Ziekenhuisgroep,Noordwest Ziekenhuisgroep Alkmaar-Pijncentrum,Wendelaarstraat,58,1814 GS,Alkmaar,Ziekenhuis,Buitenpolikliniek,3,,1814 1814GS
+,103701 Noordwest Ziekenhuisgroep,Noordwest Ziekenhuisgroep Alkmaar,Wilhelminalaan,12,1815 JD,Alkmaar,Ziekenhuis,Algemeen ziekenhuis,2,,1815 1815JD
+,109001 Ziekenhuisgroep Twente,ZGT Locatie Almelo,Zilvermeeuw,1,7609 PP,Almelo,Ziekenhuis,Algemeen ziekenhuis,2,,7609 7609PP
+,101901 Flevoziekenhuis,Flevoland ziekenhuis Buitenpoli Almere Poort,Beneluxlaan,573-579,1363 BJ,Almere,Ziekenhuis,Buitenpolikliniek,3,1363,1 363BJ
+101901,Flevoziekenhuis,Flevoziekenhuis,Hospitaalweg,1,1315 RA,Almere,Ziekenhuis,Algemeen ziekenhuis,2,,1315 1315RA
+,101301 Alrijne Zorggroep,Alrijne Alphen aan den Rijn,Meteoorlaan,4,2402 WC,Alphen a/d Rijn,Ziekenhuis,Buitenpolikliniek,3,,2402 2402WC
+,103601 Meander Medisch Centrum,Meander Medisch Centrum Amersfoort,Maatweg,3,3813 TZ,Amersfoort,Ziekenhuis,Algemeen ziekenhuis,2,,3813 3813TZ
+,108401 Ziekenhuis Amstelland,Ziekenhuis Amstelland,Laan van de Helende Meesters,8,1186 AM,Amstelveen,Ziekenhuis,Algemeen ziekenhuis,2,,1186 1186AM
+,100101 Amsterdam UMC,Locatie Vumc,de Boelelaan,1117,1081 HV,Amsterdam,Ziekenhuis,Academisch ziekenhuis,1,,1081 1081HV
+,100101 Amsterdam UMC,Emma Kinderziekenhuis,Meibergdreef,9,1105 AZ,Amsterdam,Ziekenhuis,Kinderziekenhuis,4,,1105 1105AZ
+,109801 Antoni van Leeuwenhoek,Antoni van Leeuwenhoek,Plesmanlaan,121,1066 CX,Amsterdam,Ziekenhuis,Algemeen ziekenhuis,2,,1066 1066CX
+,100801 BovenIJ ziekenhuis,BovenIJ ziekenhuis,Statenjachtstraat,1,1034 CS,Amsterdam,Ziekenhuis,Algemeen ziekenhuis,2,,1034 1034CS
+,106301 Onze Lieve Vrouwe Gasthuis,Onze Lieve Vrouwe Gasthuis locatie West,Jan Tooropstraat,164,1061 AE,Amsterdam,Ziekenhuis,Algemeen ziekenhuis,2,,1061 1061AE
+,106301 Onze Lieve Vrouwe Gasthuis,Onze Lieve Vrouwe Gasthuis locatie Oost,Oosterpark,9,1091 AC,Amsterdam,Ziekenhuis,Algemeen ziekenhuis,2,,1091 1091AC
+,106301 Onze Lieve Vrouwe Gasthuis,Onze Lieve Vrouwe Gasthuis Spuistraat,Spuistraat,239A,1012 VP,Amsterdam,Ziekenhuis,Buitenpolikliniek,3,,1012 1012VP
+,100101 Amsterdam UMC,locatie AMC,Meibergdreef,9,1105 AZ,Amsterdam,Ziekenhuis,Academisch ziekenhuis,1,,1105 1105AZ
+,102101 Gelre Ziekenhuizen,Gelre Ziekenhuizen Apeldoorn,A. Schweitzerlaan,31,7334 DZ,Apeldoorn,Ziekenhuis,Algemeen ziekenhuis,2,,7334 7334DZ
+,102101 Gelre Ziekenhuizen,Gelre Diagnostisch Centrum Apeldoorn,John F Kennedylaan,32,7314 PS,Apeldoorn,Ziekenhuis,Buitenpolikliniek,3,,7314 7314PS
+,100401 Rijnstate Ziekenhuis,Rijnstate Arnhem-Zuid,Marga Klompélaan,6,6836 BH,Arnhem,Ziekenhuis,Buitenpolikliniek,3,,6836 6836BH
+,100401 Rijnstate Ziekenhuis,Rijnstate Arnhem,Wagnerlaan,55,6815 AD,Arnhem,Ziekenhuis,Algemeen ziekenhuis,2,,6815 6815AD
+,108201 Wilhelmina Ziekenhuis Assen,Wilhelmina Ziekenhuis Assen,Europaweg-Zuid,1,9401 RK,Assen,Ziekenhuis,Algemeen ziekenhuis,2,,9401 9401RK
+,108201 Wilhelmina Ziekenhuis Assen,Wilhelmina Ziekenhuis locatie Noorderpark,Molenstraat,262-b,9402 JW,Assen,Ziekenhuis,Buitenpolikliniek,3,,9402 9402JW
+,108301 Zaans Medisch Centrum,Zaans Medisch Centrum Polikliniek Saendelft,Kaaikhof,69,1567 JP,Assendelft,Ziekenhuis,Buitenpolikliniek,3,,1567 1567JP
+,103601 Meander Medisch Centrum,Meander Medisch Centrum Baarn,Molenweg,2,3743 CM,Baarn,Ziekenhuis,Buitenpolikliniek,3,,3743 3743CM
+,103601 Meander Medisch Centrum,Meander Medisch Centrum Barneveld,Nederwoudseweg,17,3772 TD,Barneveld,Ziekenhuis,Buitenpolikliniek,3,3772,3772TD
+,108601 Ziekenhuis De Gelderse Vallei,Ziekenhuis De Gelderse Vallei Polikliniek Barneveld,Klaverweide,1a,3773 AW,Barneveld,Ziekenhuis,Buitenpolikliniek,3,3773,3773AW
+,102001 Bravis Ziekenhuis,Bravis Ziekenhuis Bergen op Zoom,Boerhaaveplein,1,4624 VT,Bergen Op Zoom,Ziekenhuis,Algemeen ziekenhuis,2,4624,4624VT
+,107801 Sint Franciscus Vlietland Groep,Franciscus Berkel,Boerhaavestraat,19,2652 EP,Berkel en Rodenrijs,Ziekenhuis,Buitenpolikliniek,3,,2652 2652EP
+,104601 Pantein,Maasziekenhuis Pantein,Dokter Kopstraat,1,5835 DV,Beugen,Ziekenhuis,Algemeen ziekenhuis,2,,5835 5835DV
+,105101 Rode Kruis Ziekenhuis,Rode Kruis Ziekenhuis Beverwijk,Vondellaan,13,1942 LE,Beverwijk,Ziekenhuis,Algemeen ziekenhuis,2,1942,1942LE
+,106901 Tergooi,Tergooi locatie Blaricum,Rijksstraatweg,1,1261 AN,Blaricum,Ziekenhuis,Algemeen ziekenhuis,2,1261,1261AN
+,102301 Groene Hart Ziekenhuis,Groene Hart Ziekenhuis Bodegraven,Willem de Zwijgerstraat,9C,2411 VT,Bodegraven,Ziekenhuis,Buitenpolikliniek,3,2411,2411VT
+,103001 Jeroen Bosch Ziekenhuis,Jeroen Bosch Ziekenhuis Boxtel,Liduinahof,35,5281 AD,Boxtel,Ziekenhuis,Buitenpolikliniek,3,,5281 5281AD
+,100501 Amphia Ziekenhuis,Amphia Breda,Molengracht,21,4818 CK,Breda,Ziekenhuis,Algemeen ziekenhuis,2,,4818 4818CK
+,106801 CuraMare,Het Van Weel-Bethesda Polikliniek Brielle,Amer,21,3232 HA,Brielle,Ziekenhuis,Buitenpolikliniek,3,,3232 3232HA
+,100701 Zuyderland Medisch Centrum,Zuyderland Medisch Centrum Brunssum,Prins Hendriklaan,376,6443 AE,Brunssum,Ziekenhuis,Buitenpolikliniek,3,,6443 6443AE
+,106101 SJG Weert,St. Jans Gasthuis Buitenpoli Budel,Grensweg,1,6021 JW,Budel,Ziekenhuis,Buitenpolikliniek,3,,6021 6021JW
+,103601 Meander Medisch Centrum,Meander Medisch Centrum Bunschoten,Chopinstraat,2D,3752 HR,Bunschoten-Spakenburg,Ziekenhuis,Buitenpolikliniek,3,,3752 3752HR
+102601,IJsselland Ziekenhuis,IJsselland Ziekenhuis,Prins Constantijnweg,2,2906 ZC,Capelle a/d IJssel,Ziekenhuis,Algemeen ziekenhuis,2,,2906 2906ZC
+102801,Ikazia Ziekenhuis,Ikazia Ziekenhuis Polikliniek Carnisselande,Middeldijkerplein,36,2993 DL,Barendrecht-Carnisselande,Ziekenhuis,Buitenpolikliniek,3,,2993 2993DL
+105301,Saxenburgh Groep,Saxenburgh De Veltstroom Coevorden,Burgemeester Feithsingel,2,7742 BP,Coevorden,Ziekenhuis,Buitenpolikliniek,3,,7742 7742BP
+108701,Stichting Gezondheidszorg Rivierenland,Ziekenhuis Rivierenland Barbarapolikliniek,Elisabethdreef,4,4101 KL,Culemborg,Ziekenhuis,Buitenpolikliniek,3,,4101 4101KL
+102401,Stichting Reinier Haga Groep,Reinier de Graaf Delft,Reinier de Graafweg,5,2625 AD,Delft,Ziekenhuis,Algemeen ziekenhuis,2,,2625 2625AD
+107401,Ommelander Ziekenhuis Groningen,Servicepunt Delfzijl,Schoolstraat,7,9934 CD,Delfzijl,Ziekenhuis,Buitenpolikliniek,3,,9934 9934CD
+103701,Noordwest Ziekenhuisgroep,Noordwest Ziekenhuisgroep Polikliniek Texel,Pontweg,106,1791 LB,Den Burg,Ziekenhuis,Buitenpolikliniek,3,,1791 1791LB
+,103701 Noordwest Ziekenhuisgroep,Noordwest Ziekenhuisgroep Den Helder,Huisduinerweg,3,1782 GZ,Den Helder,Ziekenhuis,Algemeen ziekenhuis,2,,1782 1782GZ
+,101701 Elkerliek Ziekenhuis,Elkerliek locatie Deurne,Dunantweg,16,5751 CB,Deurne,Ziekenhuis,Buitenpolikliniek,3,,5751 5751CB
+,106701 Deventer Ziekenhuis,Deventer Ziekenhuis Locatie Deventer,Nico Bolkesteinlaan,75,7416 SE,Deventer,Ziekenhuis,Algemeen ziekenhuis,2,,7416 7416SE
+,102101 Gelre Ziekenhuizen,Gelre Ziekenhuizen Polikliniek Dieren,Wilhelminaweg,80,6951 BR,Dieren,Ziekenhuis,Buitenpolikliniek,3,,6951 6951BR
+,106801 CuraMare,Het Van Weel-Bethesda,Stationsweg,22,3247 BW,Dirksland,Ziekenhuis,Algemeen ziekenhuis,2,,3247 3247BW
+,102101 Gelre Ziekenhuizen,Gelre Ziekenhuis Polikliniek Doesburg,De Linie,3b,6982 AZ,Doesburg,Ziekenhuis,Buitenpolikliniek,3,,6982 6982AZ
+,105401 Slingeland Ziekenhuis,Slingeland Ziekenhuis polikliniek Dermatologie,Gezellenlaan,10,7005 AZ,Doetinchem,Ziekenhuis,Buitenpolikliniek,3,,7005 7005AZ
+,105401 Slingeland Ziekenhuis,Slingeland Ziekenhuis,Kruisbergseweg,25,7009 BL,Doetinchem,Ziekenhuis,Algemeen ziekenhuis,2,,7009 7009BL
+101401,Diakonessenhuis,Diakonessenhuis Buitenpolikliniek Doorn,Zonnehuis,2,3941 RB,Doorn,Ziekenhuis,Buitenpolikliniek,3,3941,3941RB
+100301,Albert Schweitzer,Albert Schweitzer locatie Dordwijk,A. Schweitzerplaats,25,3318 AT,Dordrecht,Ziekenhuis,Algemeen ziekenhuis,2,3318,3318AT
+100301,Albert Schweitzer,Albert Schweitzer Polikliniek Dermatologie,A. Schweitzerplaats,8,3318 AS,Dordrecht,Ziekenhuis,Buitenpolikliniek,3,,3318 3318AS
+,101801 Erasmus Medisch Centrum,Erasmus Medisch Centrum Radiotherapie - locatie Dordrecht,Karel Lotsyweg,30,3318 AL,Dordrecht,Ziekenhuis,Buitenpolikliniek,3,3318,3318AL
+,106601 Nij Smellinghe,Nij Smellinghe,Compagnonsplein,1,9202 NN,Drachten,Ziekenhuis,Algemeen ziekenhuis,2,,9202 9202NN
+,106201 Stichting Christelijk Ziekenhuis St. Jansdal,Polikliniek St. Jansdal Dronten,Het Zwarte Water,77,8253 PD,Dronten,Ziekenhuis,Buitenpolikliniek,3,,8253 8253PD
+,103001 Jeroen Bosch Ziekenhuis,Jeroen Bosch Ziekenhuis Drunen,Tinie de Munnikstraat,17,5151 VW,Drunen,Ziekenhuis,Buitenpolikliniek,3,,5151 5151VW
+,100901 Canisius-Wilhelmina Ziekenhuis,Canisius-Wilhelmina Ziekenhuis Druten,Kerkeland,3,6651 KN,Druten,Ziekenhuis,Buitenpolikliniek,3,,6651 6651KN
+,103201 Laurentius Ziekenhuis,Servicepunt Laurentius Echt,Nobelweg,10,6101 XB,Echt,Ziekenhuis,Buitenpolikliniek,3,,6101 6101XB
+,108601 Ziekenhuis De Gelderse Vallei,Ziekenhuis De Gelderse Vallei Ede,Willy Brandtlaan,10,6716 RP,Ede,Ziekenhuis,Algemeen ziekenhuis,2,,6716 6716RP
+,110101 Streekziekenhuis Koningin Beatrix,Streekziekenhuis Koningin Beatrix Buitenpoli Eibergen,J W Hagemanstraat,46-2,7151 AH,Eibergen,Ziekenhuis,Buitenpolikliniek,3,,7151 7151AH
+,103501 Máxima Medisch Centrum,Máxima Medisch Centrum Eindhoven,Ds. Th. Fliednerstraat,1,5631 BM,Eindhoven,Ziekenhuis,Algemeen ziekenhuis,2,,5631 5631BM
+,105701 St. Anna Zorggroep,St. Anna Ziekenhuis Eindhoven,Antoon Coolenlaan,01-03,5644 RX,Eindhoven,Ziekenhuis,Buitenpolikliniek,3,,5644 5644RX
+,101001 Stichting Catharina Ziekenhuis,Catharina Ziekenhuis,Michelangelolaan,2,5623 EJ,Eindhoven,Ziekenhuis,Algemeen ziekenhuis,2,,5623 5623EJ
+,100601 Antonius Zorggroep,Antonius Ziekenhuis Emmeloord,Urkerweg,4,8303 BX,Emmeloord,Ziekenhuis,Buitenpolikliniek,3,,8303 8303BX
+,100601 Antonius Zorggroep,Antonius in Dokter Jansencentrum,Urkerweg,1,8303 BX,Emmeloord,Ziekenhuis,Buitenpolikliniek,3,,8303 8303BX
+,109301 Treant Zorggroep,Ziekenhuislocatie Scheper Emmen,Boermarkeweg,60,7824 AA,Emmen,Ziekenhuis,Algemeen ziekenhuis,2,,7824 7824AA
+,108001 Dijklander Ziekenhuis,Dijklander Ziekenhuis Buitenpoli Enkhuizen,Molenweg,9b,1601 SR,Enkhuizen,Ziekenhuis,Buitenpolikliniek,3,,1601 1601SR
+,104001 Stichting Medisch Spectrum Twente,Medisch Spectrum Twente Enschede Haaksbergerstraat,Haaksbergerstraat,55,7513 ER,Enschede,Ziekenhuis,Buitenpolikliniek,3,,7513 7513ER
+,104001 Stichting Medisch Spectrum Twente,Medisch Spectrum Twente Enschede Koningsplein,Koningsplein,1,7512 KZ,Enschede,Ziekenhuis,Algemeen ziekenhuis,2,,7512 7512KZ
+,102101 Gelre Ziekenhuizen,Gelre Ziekenhuizen Polikliniek Epe,Willem Tellstraat,17F,8162 ET,Epe,Ziekenhuis,Buitenpolikliniek,3,,8162 8162ET
+,100501 Amphia Ziekenhuis,Amphia Etten-Leur,Trivium,76,4873 LP,Etten-Leur,Ziekenhuis,Buitenpolikliniek,3,,4873 4873LP
+,102001 Bravis Ziekenhuis,Bravis Ziekenhuis Polikliniek Etten-Leur,Schoonhout,215,4872 MC,Etten-Leur,Ziekenhuis,Buitenpolikliniek,3,,4872 4872MC
+,105701 St. Anna Zorggroep,St. Anna Ziekenhuis Geldrop,Bogardeind,2,5664 EH,Geldrop,Ziekenhuis,Algemeen ziekenhuis,2,,5664 5664EH
+,101701 Elkerliek Ziekenhuis,Elkerliek polikliniek Gemert,Julianastraat,2,5421 DB,Gemert,Ziekenhuis,Buitenpolikliniek,3,,5421 5421DB
+,101801 Admiraal De Ruyter,Admiraal De Ruyter Ziekenhuis Goes,s-Gravenpolderseweg,114,4462 RA,Goes,Ziekenhuis,Algemeen ziekenhuis,2,,4462 4462RA
+,105001 Rivas Zorggroep,Beatrixziekenhuis,Banneweg,57,4204 AA,Gorinchem,Ziekenhuis,Algemeen ziekenhuis,2,,4204 4204AA
+102301,102301 Groene Hart Ziekenhuis,Groene Hart Ziekenhuis Gouda,Bleulandweg,10,2803 HH,Gouda,Ziekenhuis,Algemeen ziekenhuis,2,,2803 2803HH
+102306,102302 Groene Hart Ziekenhuis,Groene Hart Ziekenhuis Bleulandweg 3,Bleulandweg,3,2803 HG,Gouda,Ziekenhuis,Buitenpolikliniek,3,,2803 2803HG
+105405,102303 Groene Hart Ziekenhuis,Slingeland Ziekenhuis Poli Vaatchirurgie Groenlo,Buitenschans,28,7141 EL,Groenlo,Ziekenhuis,Buitenpolikliniek,3,,7141 7141EL
+103401,102304 Groene Hart Ziekenhuis,Martini Ziekenhuis van Swieten,Van Swietenplein,1,9728 NT,Groningen,Ziekenhuis,Algemeen ziekenhuis,2,,9728 9728NT
+107401,102305 Groene Hart Ziekenhuis,UMCG,Hanzeplein,1,9713 GZ,Groningen,Ziekenhuis,Academisch ziekenhuis,1,,9713 9713GZ
+104004,104001 Stichting Medisch Spectrum Twente,Medisch Spectrum Twente Haaksbergen,Wiedenbroeksingel,4,7481 BT,Haaksbergen,Ziekenhuis,Buitenpolikliniek,3,,7481 7481BT
+103101,103101 Spaarne Gasthuis,Spaarne Gasthuis locatie Haarlem Zuid,Boerhaavelaan,22,2035 RC,Haarlem,Ziekenhuis,Algemeen ziekenhuis,2,,2035 2035RC
+103102,103101 Spaarne Gasthuis,Spaarne Gasthuis locatie Haarlem Noord,Vondelweg,999,2026 BW,Haarlem,Ziekenhuis,Algemeen ziekenhuis,2,,2026 2026BW
+105301,105301 Saxenburgh Groep,Saxenburgh Medisch Centrum,Jan Weitkamplaan,4a,7772 SE,Hardenberg,Ziekenhuis,Algemeen ziekenhuis,2,,7772 7772SE
+105307,105301 Saxenburgh Groep,Kinderpoli Saxenburgh Groei,Röpcke-Zweerslaan,2,7772RV,Hardenberg,Ziekenhuis,Buitenpolikliniek,3,,7772 7772RV
+105308,105301 Saxenburgh Groep,Saxenburgh Groep Dialysecentrum Hardenberg,Zwingel,1,7772 SE,Hardenberg,Ziekenhuis,Buitenpolikliniek,3,,7772 7772SE
+103610,103601 Meander Medisch Centrum,Meander Medisch Centrum Diasecentrum Harderwijk,Wethouder Jansenlaan,90,3844 DG,Harderwijk,Ziekenhuis,Buitenpolikliniek,3,,3844 3844DG
+106201,106201 Stichting Christelijk Ziekenhuis St. Jansdal,Ziekenhuis St. Jansdal Harderwijk,Weth. Jansenlaan,90,3844 DG,Harderwijk,Ziekenhuis,Algemeen ziekenhuis,2,,3844 3844DG
+107402,107401 Universitair Medisch Centrum Groningen,UMCG Beatrixoord Haren,Dilgtweg,5,9751 ND,Haren,Ziekenhuis,Buitenpolikliniek,3,,9751 9751ND
+109202,109201 Zorgpartners Friesland,Medisch Centrum Leeuwarden Harlingen,Achlumerdijk,2,8862 AJ,Harlingen,Ziekenhuis,Buitenpolikliniek,3,,8862 8862AJ
+109204,109201 Zorgpartners Friesland,De Tjongerschans Polikliniek Sportstad,Abe Lenstra Boulevard,21,8448 JA,Heerenveen,Ziekenhuis,Buitenpolikliniek,3,,8448 8448JA
+109206,109201 Zorgpartners Friesland,De Tjongerschans,Thialfweg,44,8441 PW,Heerenveen,Ziekenhuis,Algemeen ziekenhuis,2,,8441 8441PW
+103705,103701 Noordwest Ziekenhuisgroep,Noordwest Ziekenhuisgroep Heerhugowaard,Stationsplein,49,1703 WD,Heerhugowaard,Ziekenhuis,Buitenpolikliniek,3,,1703 1703WD
+100701,100701 Zuyderland Medisch Centrum,Zuyderland Medisch Centrum Heerlen,H. Dunantstraat,5,6419 PC,Heerlen,Ziekenhuis,Algemeen ziekenhuis,2,,6419 6419PC
+106804,106801 CuraMare,Het Van Weel-Bethesda Polikliniek Hellevoetsluis 't Dok MC,Herman Heijermansstraat,1A,3221 VK,Hellevoetsluis,Ziekenhuis,Buitenpolikliniek,3,,3221 3221VK
+106801,106801 CuraMare,Het Van Weel-Bethesda Polikliniek Hellevoetsluis,Vliet,4,3224 HE,Hellevoetsluis,Ziekenhuis,Buitenpolikliniek,3,,3224 3224HE
+101705,101701 Elkerliek Ziekenhuis,Elkerliek Vitaliek,Julianalaan,2,5707 HR,Helmond,Ziekenhuis,Buitenpolikliniek,3,,5707 5707HR
+101701,101701 Elkerliek Ziekenhuis,Elkerliek Helmond,Wesselmanlaan,25,5707 HA,Helmond,Ziekenhuis,Algemeen ziekenhuis,2,,5707 5707HA
+109001,109001 Ziekenhuisgroep Twente,ZGT Locatie Hengelo,Geerdinksweg,141,7555 DL,Hengelo Ov,Ziekenhuis,Algemeen ziekenhuis,2,,7555 7555DL
+103106,103101 Spaarne Gasthuis,Spaarne Gasthuis Hillegom,Abellalaan,1,2182 TX,Hillegom,Ziekenhuis,Buitenpolikliniek,3,,2182 2182TX
+106901,106901 Tergooi,Tergooi locatie Hilversum,van Riebeeckweg,212,1213 XZ,Hilversum,Ziekenhuis,Algemeen ziekenhuis,2,,1213 1213XZ
+103103,103101 Spaarne Gasthuis,Spaarne Gasthuis Hoofddorp,Spaarnepoort,1,2134 TM,Hoofddorp,Ziekenhuis,Algemeen ziekenhuis,2,,2134 2134TM
+109302,109301 Treant Zorggroep,Ziekenhuislocatie Bethesda Hoogeveen,Dr. G.H. Amshoffweg,1,7909 AA,Hoogeveen,Ziekenhuis,Algemeen ziekenhuis,2,7909,7909AA
+108003,108001 Dijklander Ziekenhuis,Dijklander Ziekenhuis Hoorn,Fr. Maelsonstraat,3,1624 NP,Hoorn Nh,Ziekenhuis,Algemeen ziekenhuis,2,1624,1624NP
+107703,107701 Stichting VieCuri-Vitaal,VieCuri Medisch Centrum Regiopoli Horst,Westsingel,96,5961 DH,Horst,Ziekenhuis,Buitenpolikliniek,3,5961,5961DH
+105804,105801 St. Antonius Ziekenhuis,St. Antonius Polikliniek Houten,Hofspoor,2,3994 VZ,Houten,Ziekenhuis,Buitenpolikliniek,3,,3994 3994VZ
+102008,102001 Bravis Ziekenhuis,Bravispunt Huijbergen,Siardus Bogaertslaan,8A,4635 CM,Huijbergen,Ziekenhuis,Buitenpolikliniek,3,,4635 4635CM
+108803,108801 ZorgSaam Zorggroep Zeeuws-Vlaanderen,Zorgsaam Ziekenhuis Locatie Liduina,Lyceumstraat,20,4561 HV,Hulst,Ziekenhuis,Buitenpolikliniek,3,4561,4561HV
+106103,106101 SJG Weert,St. Jans Gasthuis Buitenpoli Ittervoort,Leliestraat,4,6014 AN,Ittervoort,Ziekenhuis,Buitenpolikliniek,3,6014,6014AN
+109207,109201 Zorgpartners Friesland,De Tjongerschans Polikliniek Joure,Sluisdijk,30,8501 BZ,Joure,Ziekenhuis,Buitenpolikliniek,3,8501,8501BZ
+102903,102901 Isala klinieken,Isala Kampen,Engelenbergplantsoen,7,8266 AB,Kampen,Ziekenhuis,Buitenpolikliniek,3,,8266 8266AB
+101303,101301 Alrijne Zorggroep,Alrijne Buitenlocatie Katwijk,Randweg,47,2225 PJ,Katwijk,Ziekenhuis,Buitenpolikliniek,3,,2225 2225PJ
+100703,100701 Zuyderland Medisch Centrum,Zuyderland Medisch Centrum Kerkrade,Wijngracht,45,6461 AL,Kerkrade,Ziekenhuis,Buitenpolikliniek,3,,6461 6461AL
+102603,102601 IJsselland Ziekenhuis,IJsselland Ziekenhuis Buitenpolikliniek Krimpen,Groenendaal,1,2922 CJ,KRimpen a/d IJssel,Ziekenhuis,Buitenpolikliniek,3,,2922 2922CJ
+105002,105001 Rivas Zorggroep,Lingepolikliniek,Lingesteynplantsoen,3,4141 GH,Leerdam,Ziekenhuis,Buitenpolikliniek,3,,4141 4141GH
+109201,109201 Zorgpartners Friesland,Medisch Centrum Leeuwarden,H. Dunantweg,2,8934 AD,Leeuwarden,Ziekenhuis,Algemeen ziekenhuis,2,,8934 8934AD
+101301,Alrijne Zorggroep,Alrijne Leiden,Houtlaan,55,2334 CK,Leiden,Ziekenhuis,Algemeen ziekenhuis,2,,2334 2334CK
+103301,Leids Universitair Medisch Centrum,Leids Universitair Medisch Centrum,Albinusdreef,2,2333 ZA,Leiden,Ziekenhuis,Academisch ziekenhuis,1,,2333 2333ZA
+103302,Leids Universitair Medisch Centrum,Willem-Alexander Kinderziekenhuis,Albinusdreef,2,2333 ZA,Leiden,Ziekenhuis,Kinderziekenhuis,4,,2333 2333ZA
+101305,Alrijne Zorggroep,Alrijne Leiderdorp,Simon Smitweg,1,2353 GA,Leiderdorp,Ziekenhuis,Algemeen ziekenhuis,2,,2353 2353GA
+103801,Haaglanden Medisch Centrum,HMC Antoniushove,Burgemeester Banninglaan,1,2262 BA,Leidschendam,Ziekenhuis,Algemeen ziekenhuis,2,,2262 2262BA
+106206,Stichting Christelijk Ziekenhuis St. Jansdal,Ziekenhuis St. Jansdal Lelystad,Ziekenhuisweg,100,8233 AA,Lelystad,Ziekenhuis,Algemeen ziekenhuis,2,,8233 8233AA
+109205,Zorgpartners Friesland,De Tjongerschans Polikliniek Lemmer,Van Rijgersmapark,1,8531 JA,Lemmer,Ziekenhuis,Buitenpolikliniek,3,,8531 8531JA
+103606,103601 Meander Medisch Centrum,Meander Medisch Centrum Leusden,De Mulderij,2,3831 NV,Leusden,Ziekenhuis,Buitenpolikliniek,3,,3831 3831NV
+103706,103701 Noordwest Ziekenhuisgroep,Noordwest Ziekenhuisgroep Limmen,Zonnedauw,2,1906 HA,Limmen,Ziekenhuis,Buitenpolikliniek,3,,1906 1906HA
+102104,102101 Gelre Ziekenhuizen,Gelre Ziekenhuizen Polikliniek Lochem,Zwiepseweg,105,7241 GR,Lochem,Ziekenhuis,Buitenpolikliniek,3,,7241 7241GR
+107803,107801 Sint Franciscus Vlietland Groep,Franciscus Maassluis,De Vloot,206,3144 PK,Maassluis,Ziekenhuis,Buitenpolikliniek,3,,3144 3144PK
+100202,100201 Maastricht UMC+,Medisch centrum Annadal,Brouwersweg,100,6216 EG,Maastricht,Ziekenhuis,Buitenpolikliniek,3,,6216 6216EG
+100204,100201 Maastricht UMC+,Stadspoli West,Clavecymbelstraat,71A-77A,6217 CS,Maastricht,Ziekenhuis,Buitenpolikliniek,3,,6217 6217CS
+100201,100201 Maastricht UMC+,Maastricht UMC+,P. Debijelaan,25,6229 HX,Maastricht,Ziekenhuis,Academisch ziekenhuis,1,,6229 6229HX
+100203,100201 Maastricht UMC+,Stadspoli Oost,Vijverdalseweg,2-4,6226NB,Maastricht,Ziekenhuis,Buitenpolikliniek,3,,6226 6226NB
+102905,Isala klinieken,Isala Meppel,Reggersweg,2,7943 KC,Meppel,Ziekenhuis,Algemeen ziekenhuis,2,7943,7943Kc
+101805,Admiraal De Ruyter,Admiraal De Ruyter Ziekenhuis Middelburg Kalverstraat,Kalverstraat,1,4331 LZ,Middelburg,Ziekenhuis,Buitenpolikliniek,3,4331,4331LZ
+108805,ZorgSaam Zorggroep Zeeuws-Vlaanderen,Zorgsaam Cardiologie Centrum,Buitenruststraat,16,4337 EH,Middelburg,Ziekenhuis,Buitenpolikliniek,3,,4337 4337EH
+105810,105801 St. Antonius Ziekenhuis,St. Antonius Bloedafname Mijdrecht,Hoofdweg,1,3641 PN,Mijdrecht,Ziekenhuis,Buitenpolikliniek,3,3641,3641PN
+102407,102401 Stichting Reinier Haga Groep,Reinier de Graaf Naaldwijk,Middel Broekweg,2a,2671 ME,Naaldwijk,Ziekenhuis,Buitenpolikliniek,3,,2671 2671ME
+103105,103101 Spaarne Gasthuis,Spaarne Gasthuis Nieuw-Vennep,Lucas Bolsstraat,10,2152 CZ,Nieuw-Vennep,Ziekenhuis,Buitenpolikliniek,3,,2152 2152CZ
+105801,105801 St. Antonius Ziekenhuis,St. Antonius Ziekenhuis Nieuwegein,Koekoekslaan,1,3435 CM,Nieuwegein,Ziekenhuis,Algemeen ziekenhuis,2,,3435 3435CM
+102303,102301 Groene Hart Ziekenhuis,Groene Hart Ziekenhuis Zuidplas,Doortocht,40,2914 KA,Nieuwerkerk a/d IJssel,Ziekenhuis,Buitenpolikliniek,3,,2914 2914KA
+103607,103601 Meander Medisch Centrum,Meander Medisch Centrum Nijkerk,Oranjelaan,104,3862 CX,Nijkerk,Ziekenhuis,Buitenpolikliniek,3,,3862 3862CX
+100905,100901 Canisius-Wilhelmina Ziekenhuis,Canisius-Wilhelmina Polikliniek Jonkerbosch,Burgemeester Daleslaan,27,6532 CL,Nijmegen,Ziekenhuis,Buitenpolikliniek,3,,6532 6532CL
+100902,100901 Canisius-Wilhelmina Ziekenhuis,Canisius-Wilhelmina Ziekenhuis Waalsprong,Carbatinastraat,3,6515 GM,Nijmegen,Ziekenhuis,Buitenpolikliniek,3,,6515 6515GM
+100901,100901 Canisius-Wilhelmina Ziekenhuis,Canisius-Wilhelmina Ziekenhuis,Weg door Jonkerbos,100,6532 SZ,Nijmegen,Ziekenhuis,Algemeen ziekenhuis,2,,6532 6532SZ
+107501,107501 Radboudumc,Radboudumc,Geert Grooteplein Zuid,10,6525 GA,Nijmegen,Ziekenhuis,Academisch ziekenhuis,1,,6525 6525GA
+107502,107501 Radboudumc,Amalia kinderziekenhuis,Geert Grooteplein Zuid,10,6525 GA,Nijmegen,Ziekenhuis,Kinderziekenhuis,4,,6525 6525GA
+104003,104001 Stichting Medisch Spectrum Twente,Medisch Spectrum Twente Oldenzaal,Pr. Bernhardstraat,17,7573 AM,Oldenzaal,Ziekenhuis,Buitenpolikliniek,3,,7573 7573AM
+105303,105301 Saxenburgh Groep,Saxenburgh Polikliniek Ommen,Chevalleraustraat,4,7731 EE,Ommen,Ziekenhuis,Buitenpolikliniek,3,,7731 7731EE
+108802,108801 ZorgSaam Zorggroep Zeeuws-Vlaanderen,Zorgsaam Ziekenhuis Locatie Antonius,Pastoor van Genklaan,6,4501 AJ,Oostburg,Ziekenhuis,Algemeen ziekenhuis,2,,4501 4501AJ
+100503,100501 Amphia Ziekenhuis,Amphia Oosterhout,Pasteurlaan,9,4901 DH,Oosterhout,Ziekenhuis,Algemeen ziekenhuis,2,,4901 4901DH
+108501,108501 Ziekenhuis Bernhoven,Ziekenhuis Bernhoven Oss,Gezondheidslaan,1a,5342 JW,Oss,Ziekenhuis,Buitenpolikliniek,3,,5342 5342JW
+103709,103701 Noordwest Ziekenhuisgroep,Noordwest Ziekenhuisgroep Texel - Dialysecentrum,t Hof,20,1794 AZ,Oosterend,Ziekenhuis,Buitenpolikliniek,3,,1794 1794AZ
+105204,105201 Spijkenisse Medisch Centrum,Spijkenisse Medisch Centrum Buitenpolikliniek Oud-Beijerland,Zoomwijckplein,15,3262 DA,Oud-Beijerland,Ziekenhuis,Buitenpolikliniek,3,,3193 3262DA
+102002,102001 Bravis Ziekenhuis,Bravispunt Oudenbosch,West-Vaardeke,11A,4731 MA,Oudenbosch,Ziekenhuis,Buitenpolikliniek,3,,4731 4731MA
+106104,106101 SJG Weert,St. Jans Gasthuis Verloskundigepraktijk Van Hal,Steenstraat,103,5981 AD,Panningen,Ziekenhuis,Buitenpolikliniek,3,,5981 5981AD
+107704,107701 Stichting VieCuri-Vitaal,VieCuri Medisch Centrum Regiopoli Peel en Maas in Panningen,Steenbakkerstraat,6,5981 WT,Panningen,Ziekenhuis,Buitenpolikliniek,3,,5981 5981WT
+108001,108001 Dijklander Ziekenhuis,Dijklander Ziekenhuis Purmerend,Waterlandlaan,250,1441 RN,Purmerend,Ziekenhuis,Algemeen ziekenhuis,2,,1441 1441RN
+106204,106201 Stichting Christelijk Ziekenhuis St. Jansdal,Polikliniek St. Jansdal Putten,Klaas Frisohof,20,3881 SZ,Putten,Ziekenhuis,Buitenpolikliniek,3,,3881 3881SZ
+106703,106701 Deventer Ziekenhuis,Deventer Ziekenhuis Polikliniek Raalte,Vrieswijk,6b,8103 PB,Raalte,Ziekenhuis,Buitenpolikliniek,3,,8103 8103PB
+107705,107701 Stichting VieCuri-Vitaal,VieCuri Medisch Centrum Regiopoli Reuver,Broeklaan,4,5953 NB,Reuver,Ziekenhuis,Buitenpolikliniek,3,,5953 5953NB
+100306,100301 Albert Schweitzer,Albert Schweitzer Buitenpoli GOED Ridderkerk,Jan Luykenstraat,8,2985 BV,Ridderkerk,Ziekenhuis,Buitenpolikliniek,3,,2985 2985BV
+102804,102801 Ikazia Ziekenhuis,Ikazia Ziekenhuis Polikliniek Slikkerveer,Prinses Margrietstraat,42,2983 EH,Ridderkerk,Ziekenhuis,Buitenpolikliniek,3,,2983 2983EH
+106704,106701 Deventer Ziekenhuis,Deventer Ziekenhuis Polikliniek Rijssen,Wijnand Zeeuwstraat,26,7462 DE,Rijssen,Ziekenhuis,Buitenpolikliniek,3,,7462 7462DE
+109005,109001 Ziekenhuisgroep Twente,ZGT Buitenpolikliniek Rijssen,Wijnand Zeeuwstraat,26-101,7462 DE,Rijssen,Ziekenhuis,Buitenpolikliniek,3,,7462 7462DE
+103201,103201 Laurentius Ziekenhuis,Laurentius Ziekenhuis,Mgr. Driessenstraat,6,6043 CV,Roermond,Ziekenhuis,Algemeen ziekenhuis,2,,6043 6043CV
+102001,102001 Bravis Ziekenhuis,Bravis Ziekenhuis Roosendaal,Boerhaavelaan,25,4708 AE,Roosendaal,Ziekenhuis,Algemeen ziekenhuis,2,,4708 4708AE
+103006,103001 Jeroen Bosch Ziekenhuis,Jeroen Bosch Ziekenhuis Rosmalen,De Hoef,90,5242 CN,Rosmalen,Ziekenhuis,Buitenpolikliniek,3,,5242 5242CN
+101801,101801 Erasmus Medisch Centrum,Erasmus Medisch Centrum,Dr. Molewaterplein,40,3015 GD,Rotterdam,Ziekenhuis,Academisch ziekenhuis,1,,3015 3015GD
+101803,101801 Erasmus Medisch Centrum,Erasmus Medisch Centrum Kanker Instituut,Dr. Molewaterplein,40,3015 GD,Rotterdam,Ziekenhuis,Algemeen ziekenhuis,2,,3015 3015GD
+101806,101801 Erasmus Medisch Centrum,Erasmus Medisch Centrum Derma- en Kinderhaven,Haringvliet,72,3011 TG,Rotterdam,Ziekenhuis,Buitenpolikliniek,3,,3011 3011TG
+101802,101801 Erasmus Medisch Centrum,Erasmus Medisch Centrum Sophia kinderziekenhuis,Wytemaweg,80,3015 CN,Rotterdam,Ziekenhuis,Kinderziekenhuis,4,,3015 3015CN
+102602,102601 IJsselland Ziekenhuis,IJsselland Ziekenhuis Buitenpolikliniek Nesselande,Cypruslaan,410,3059 XA,Rotterdam,Ziekenhuis,Buitenpolikliniek,3,,3059 3059XA
+102604,102601 IJsselland Ziekenhuis,IJsselland Ziekenhuis Polikliniek Kralingen,Oudedijk,15,3062 AB,Rotterdam,Ziekenhuis,Buitenpolikliniek,3,,3062 3062AB
+102805,102801 Ikazia Ziekenhuis,Kaakchirurgie Haringvliet,Haringvliet,72,3011 TD,Rotterdam,Ziekenhuis,Buitenpolikliniek,3,,3011 3011TD
+102806,102801 Ikazia Ziekenhuis,Ikazia Ziekenhuis Dagbehandeling Brainpark,K.P. van er Mandelelaan,10,3062 MB,Rotterdam,Ziekenhuis,Buitenpolikliniek,3,,3062 3062MB
+102801,102801 Ikazia Ziekenhuis,Ikazia Ziekenhuis Rotterdam,Montessoriweg,1,3083 AN,Rotterdam,Ziekenhuis,Algemeen ziekenhuis,2,,3083 3083AN
+103903,103901 Maasstad ziekenhuis,Maasstad Ziekenhuis,Maasstadweg,21,3079 DZ,Rotterdam,Ziekenhuis,Algemeen ziekenhuis,2,,3079 3079DZ
+107805,107801 Sint Franciscus Vlietland Groep,Franciscus Gasthuis,Kleiweg,500,3045 PM,Rotterdam,Ziekenhuis,Algemeen ziekenhuis,2,,3045 3045PM
+107802,107801 Sint Franciscus Vlietland Groep,Franciscus Gasthuis Polikliniek Interne Geneeskunde,Schiedamse Vest,180,3011 BH,Rotterdam,Ziekenhuis,Buitenpolikliniek,3,,3011 3011BH
+107808,107801 Sint Franciscus Vlietland Groep,Francisus Willemsplein,Willemsplein,495,3016 DR,Rotterdam,Ziekenhuis,Buitenpolikliniek,3,,3016 3016DR
+105203,105201 Spijkenisse Medisch Centrum,Spijkenisse Medisch Centrum Buitenpoli Rozenburg,Blankenburg,6,3181 BC,Rozenburg,Ziekenhuis,Buitenpolikliniek,3,,3181 3181BC
+101304,101301 Alrijne Zorggroep,Alrijne Sassenheim (SassemBourg),Jan van Brabantweg,33,2171 HC,Sassenheim,Ziekenhuis,Buitenpolikliniek,3,,2171 2171HC
+103703,103701 Noordwest Ziekenhuisgroep,Noordwest Ziekenhuisgroep Schagen,Kaagweg,25,1741 LC,Schagen,Ziekenhuis,Buitenpolikliniek,3,,1741 1741LC
+107404,107401 Ommelander Ziekenhuis Groningen,Ziekenhuis Scheemda,Pastorieweg,1,9679 BJ,Scheemda,Ziekenhuis,Algemeen ziekenhuis,2,,9679 9679BJ
+107801,107801 Sint Franciscus Vlietland Groep,Franciscus Vlietland,Vlietlandplein,2,3118 JH,Schiedam,Ziekenhuis,Algemeen ziekenhuis,2,,3118 3118JH
+102304,102301 Groene Hart Ziekenhuis,Groene Hart Ziekenhuis Schoonhoven,Oranjeplaats,21,2871 TL,Schoonhoven,Ziekenhuis,Buitenpolikliniek,3,,2871 2871TL
+103805,103801 Haaglanden Medisch Centrum,HMC Bronovo,Bronovolaan,5,2597 AX,s-Gravenhage,Ziekenhuis,Algemeen ziekenhuis,2,2597,2597AX
+103802,103801 Haaglanden Medisch Centrum,HMC Westeinde,Lijnbaan,32,2512 VA,s-Gravenhage,Ziekenhuis,Algemeen ziekenhuis,2,2512,2512VA
+103812,103801 Haaglanden Medisch Centrum,HMC Sport Medisch Centrum,Mr. P. Droogleever Fortuynweg,22,2533 SR,s-Gravenhage,Ziekenhuis,Buitenpolikliniek,3,2533,2533SR
+102401,102401 Stichting Reinier Haga Groep,HagaZiekenhuis Leyweg,Els Borst-Eilersplein,275,2545 AA,s-Gravenhage,Ziekenhuis,Algemeen ziekenhuis,2,,2545 2545AA
+102403,102401 Stichting Reinier Haga Groep,HagaZiekenhuis Juliana Kinderziekenhuis,Els Borst-Eilersplein,275,2545AA,s-Gravenhage,Ziekenhuis,Kinderziekenhuis,4,,2545 2545AA
+103007,103001 Jeroen Bosch Ziekenhuis,Jeroen Bosch Ziekenhuis 's-Hertogenbosch,Henri Dunantstraat,1,5223 GZ,s-Hertogenbosch,Ziekenhuis,Algemeen ziekenhuis,2,5223,5223GZ
+103013,103001 Jeroen Bosch Ziekenhuis,Atlent Kinderexpertisecentrum,Kooikersweg,303,5223 KE,s-Hertogenbosch,Ziekenhuis,Buitenpolikliniek,3,5223,5223KE
+103009,103001 Jeroen Bosch Ziekenhuis,Jeroen Bosch Ziekenhuis Sport Medisch Centrum,Marathonloop,9,5235 AA,s-Hertogenbosch,Ziekenhuis,Buitenpolikliniek,3,5235,5235AA
+100704,100701 Zuyderland Medisch Centrum,Zuyderland Medisch Centrum Sittard-Geleen,Dr. H. van der Hoffplein,1,6162 BG,Sittard-Geleen,Ziekenhuis,Algemeen ziekenhuis,2,,6162 6162BG
+100303,100301 Albert Schweitzer,Albert Schweitzer locatie Sliedrecht,Stationspark,401,3364 DA,Sliedrecht,Ziekenhuis,Algemeen ziekenhuis,2,,3364 3364DA
+100601,100601 Antonius Zorggroep,Antonius Ziekenhuis Sneek,Bolswarderbaan,1,8601 ZK,Sneek,Ziekenhuis,Algemeen ziekenhuis,2,,8601 8601ZK
+105201,105201 Spijkenisse Medisch Centrum,Spijkenisse Medisch Centrum,Ruwaard van Puttenweg,500,3201 GZ,Spijkenisse,Ziekenhuis,Algemeen ziekenhuis,2,,3201 3201GZ
+102006,102001 Bravis Ziekenhuis,Bravispunt St. Willebrord,Pastoor Bastiaansensingel,17E,4711 EC,St. Willebrord,Ziekenhuis,Buitenpolikliniek,3,,4711 4711EC
+109303,109301 Treant Zorggroep,Ziekenhuislocatie Refaja Stadskanaal,Boerhaavestraat,1,9501 HE,Stadskanaal,Ziekenhuis,Algemeen ziekenhuis,2,,9501 9501HE
+102004,Bravis Ziekenhuis,Bravispunt Steenbergen,De Wei,26,4651 EZ,Steenbergen,Ziekenhuis,Buitenpolikliniek,3,,4651 4651EZ
+102907,Isala klinieken,Isala Steenwijk,Sluisweg,2,8332 JC,Steenwijk,Ziekenhuis,Buitenpolikliniek,3,,8332 8332JC
+109203,Zorgpartners Friesland,De Tjongerschans Polikliniek Steenwijk,Mr. Zigher ter Steghestraat,9,8331KG,Steenwijk,Ziekenhuis,Buitenpolikliniek,3,,8331 8331KG
+108801,ZorgSaam Zorggroep Zeeuws-Vlaanderen,Zorgsaam Ziekenhuis Locatie De Honte,Wielingenlaan,2,4535 PA,Terneuzen,Ziekenhuis,Algemeen ziekenhuis,2,,4535 4535PA
+102007,Bravis Ziekenhuis,Bravispunt Tholen,Vliethof,10,4691 HA,Tholen,Ziekenhuis,Buitenpolikliniek,3,,4691 4691HA
+105812,St. Antonius Ziekenhuis,St. Antonius Dialysecentrum Tiel,President Kennedylaan,1,4201 WT,Tiel,Ziekenhuis,Buitenpolikliniek,3,,4002 4002WP
+108701,Stichting Gezondheidszorg Rivierenland,Ziekenhuis Rivierenland,Pres. Kennedylaan,1,4002 WP,Tiel,Ziekenhuis,Algemeen ziekenhuis,2,,4002 4002WP
+107301,107301 Elisabeth-TweeSteden,ETZ TweeSteden,Dr. Deelenlaan,5,5042 AD,Tilburg,Ziekenhuis,Algemeen ziekenhuis,2,,5042 5042AD
+107304,107301 Elisabeth-TweeSteden,ETZ Elisabeth,Hilvarenbeekseweg,60,5022 GC,Tilburg,Ziekenhuis,Algemeen ziekenhuis,2,,5022 5022GC
+103012,103001 Jeroen Bosch Ziekenhuis,Tolbrug locatie Uden,Annaboulevard,6,5406 PZ,Uden,Ziekenhuis,Buitenpolikliniek,3,,5406 5406PZ
+108503,108501 Ziekenhuis Bernhoven,Ziekenhuis Bernhoven Uden,Nistelrodeseweg,10,5406 PT,Uden,Ziekenhuis,Algemeen ziekenhuis,2,,5406 5406PT
+108402,108401 Ziekenhuis Amstelland,Ziekenhuis Amstelland Buitenpolikliniek Uithoorn,Koningin Máximalaan,30,1421 LC,Uithoorn,Ziekenhuis,Buitenpolikliniek,3,,1421 1421LC
+101401,101401 Diakonessenhuis,Diakonessenhuis Utrecht,Bosboomstraat,1,3582 KE,Utrecht,Ziekenhuis,Algemeen ziekenhuis,2,,3582 3582KE
+109901,109901 Prinses Máxima Centrum voor kinderoncologie,Prinses Máxima Centrum,Heidelberglaan,25,3584 CS,Utrecht,Ziekenhuis,Kinderziekenhuis,4,,3584 3584CS
+105808,105801 St. Antonius Ziekenhuis,St. Antonius Polikliniek Overvecht,Neckardreef,6,3562 CN,Utrecht,Ziekenhuis,Buitenpolikliniek,3,,3562 3562CN
+105806,St. Antonius Ziekenhuis,St. Antonius Ziekenhuis Utrecht,Soestwetering,1,3543 AZ,Utrecht,Ziekenhuis,Algemeen ziekenhuis,2,3543,3543AZ
+107601,Universitair Medisch Centrum Utrecht,UMC Utrecht,Heidelberglaan,100,3584 CX,Utrecht,Ziekenhuis,Academisch ziekenhuis,1,3584,3584CX
+107602,Universitair Medisch Centrum Utrecht,Wilhelmina Kinderziekenhuis,Lundlaan,6,3584 EA,Utrecht,Ziekenhuis,Kinderziekenhuis,4,,3584 3584EA
+109304,109301 Treant Zorggroep,Buitenpoli Treant Veendam,Lloydsterras,6,9641 DZ,Veendam,Ziekenhuis,Buitenpolikliniek,3,9642,9641DZ
+108606,108601 Ziekenhuis De Gelderse Vallei,Handencentrum Midden Nederland,Nijverheidslaan,3G,3903 AL,Veenendaal,Ziekenhuis,Buitenpolikliniek,3,,3903 3903AL
+108603,108601 Ziekenhuis De Gelderse Vallei,Ziekenhuis De Gelderse Vallei Polikliniek Veenendaal,Spoorlaan,5,3903 XS,Veenendaal,Ziekenhuis,Buitenpolikliniek,3,,3903 3903XS
+103501,103501 Máxima Medisch Centrum,Máxima Medisch Centrum Veldhoven,De Run,4600,5504 DB,Veldhoven,Ziekenhuis,Algemeen ziekenhuis,2,,5504 5504DB
+100404,100401 Rijnstate Ziekenhuis,Rijnstate Velp,President Kennedylaan,100,6883 AZ,Velp Gld,Ziekenhuis,Buitenpolikliniek,3,,6883 6883AZ
+103107,103101 Spaarne Gasthuis,Spaarne Gasthuis Velsen Noord,Wijkerstraatweg,160,1951 EK,Velsen-Noord,Ziekenhuis,Buitenpolikliniek,3,,1951 1951EK
+107706,107701 Stichting VieCuri-Vitaal,Geboortecentrum Noord-Limburg,Professor Gelissensingel,20,5912 JX,Venlo,Ziekenhuis,Buitenpolikliniek,3,,5912 5912JX
+107701,107701 Stichting VieCuri-Vitaal,VieCuri Medisch Centrum Venlo,Tegelseweg,210,5912 BL,Venlo,Ziekenhuis,Algemeen ziekenhuis,2,,5912 5912BL
+107702,107701 Stichting VieCuri-Vitaal,VieCuri Medisch Centrum Venray,Merseloseweg,130,5801CE,Venray,Ziekenhuis,Algemeen ziekenhuis,2,,5801 5801CE
+101807,101801 Admiraal De Ruyter,Admiraal De Ruyter Ziekenhuis Vlissingen,Koudekerkseweg,88,4382 EE,Vlissingen,Ziekenhuis,Algemeen ziekenhuis,2,,4382 4382EE
+108002,108001 Dijklander Ziekenhuis,Dijklander Ziekenhuis Buitenpoli Volendam,Heideweg,1b,1132 DA,Volendam,Ziekenhuis,Buitenpolikliniek,3,,1132 1132DA
+102405,102401 Stichting Reinier Haga Groep,Reinier de Graaf Voorburg,Fonteynenburghlaan,5,2275 CX,Voorburg,Ziekenhuis,Algemeen ziekenhuis,2,,2275 2275CX
+107302,107301 Elisabeth-TweeSteden,ETZ Waalwijk,Kasteellaan,2,5141 BM,Waalwijk,Ziekenhuis,Algemeen ziekenhuis,2,,5141 5141BM
+107305,107301 Elisabeth-TweeSteden,Dialyse Koetshuis Waalwijk,Koetshuislaan,619,5146 BR,Waalwijk,Ziekenhuis,Buitenpolikliniek,3,,5146 5146BR
+108607,108601 Ziekenhuis De Gelderse Vallei,Handencentrum Midden Nederland,Binnenhaven,69 G,6709 PD,Wageningen,Ziekenhuis,Buitenpolikliniek,3,,6709 6709PD
+108604,108601 Ziekenhuis De Gelderse Vallei,Ziekenhuis De Gelderse Vallei Polikliniek Wageningen,Plantsoen,57b,6701 AS,Wageningen,Ziekenhuis,Buitenpolikliniek,3,,6701 6701AS
+102904,102901 Isala klinieken,Isala Heerde,Groteweg,5,8191 JS,Wapenveld,Ziekenhuis,Buitenpolikliniek,3,,8191 8191JS
+103808,103801 Haaglanden Medisch Centrum,HMC Gezondheidscentrum Wassenaar,Hofcampweg,65,2241 KE,Wassenaar,Ziekenhuis,Buitenpolikliniek,3,,2241 2241KE
+106101,106101 SJG Weert,St. Jans Gasthuis,Vogelsbleek,5,6001 BE,Weert,Ziekenhuis,Algemeen ziekenhuis,2,,6001 6001BE
+106903,106901 Tergooi,Tergooi locatie Weesp,Korte Muiderweg,2A,1382 LR,Weesp,Ziekenhuis,Buitenpolikliniek,3,,1382 1382LR
+105305,105301 Saxenburgh Groep,Saxenburgh Polikliniek Westhaar,Hoofdweg,132C,7676 AJ,Westerhaar-Vriezenveensewijk,Ziekenhuis,Buitenpolikliniek,3,,7676 7676BC
+110101,110101 Streekziekenhuis Koningin Beatrix,Streekziekenhuis Koningin Beatrix,Beatrixpark,1,7101 BN,Winterswijk,Ziekenhuis,Algemeen ziekenhuis,2,,7101 7101BN
+105809,105801 St. Antonius Ziekenhuis,St. Antonius Locatie Woerden,Polanerbaan,2,3447 GN,Woerden,Ziekenhuis,Algemeen ziekenhuis,2,,3447 3447GN
+108301,108301 Zaans Medisch Centrum,Zaans Medisch Centrum,Koningin Julianaplein,58,1502 DV,Zaandam,Ziekenhuis,Algemeen ziekenhuis,2,,1502 1502DV
+103011,103001 Jeroen Bosch Ziekenhuis,Jeroen Bosch Ziekenhuis Zaltbommel Gamerschestraat,Gamerschestraat,32a,5301 AS,Zaltbommel,Ziekenhuis,Buitenpolikliniek,3,,5301 5301AS
+103005,103001 Jeroen Bosch Ziekenhuis,Jeroen Bosch Ziekenhuis Zaltbommel Kerkstraat,Kerkstraat,2,5301 EH,Zaltbommel,Ziekenhuis,Buitenpolikliniek,3,,5301 5301EH
+106205,106201 Stichting Christelijk Ziekenhuis St. Jansdal,Polikliniek Zeewolde,Horsterweg,32,3891 EV,Zeewolde,Ziekenhuis,Buitenpolikliniek,3,,3891 3891EV
+101402,101401 Diakonessenhuis,Diakonessenhuis Zeist,Jagersingel,1,3707 HL,Zeist,Ziekenhuis,Algemeen ziekenhuis,2,,3707 3707HL
+100402,100401 Rijnstate Ziekenhuis,Rijnstate Zevenaar,Hunneveldweg,14A,6903 ZN,Zevenaar,Ziekenhuis,Algemeen ziekenhuis,2,,6903 6903ZN
+101808,101801 Admiraal De Ruyter,Admiraal De Ruyter Ziekenhuis Zierikzee,Koning Gustaafweg,2,4301 NP,Zierikzee,Ziekenhuis,Buitenpolikliniek,3,,4301 4301NP
+102412,102401 Stichting Reinier Haga Groep,Langeland Huidkliniek,Europaweg,151,2711 ER,Zoetermeer,Ziekenhuis,Buitenpolikliniek,3,,2711 2711ER
+102410,102401 Stichting Reinier Haga Groep,LangeLand Ziekenhuis,Toneellaan,1,2725 NA,Zoetermeer,Ziekenhuis,Algemeen ziekenhuis,2,,2725 2725NA
+102101,102101 Gelre Ziekenhuizen,Gelre Ziekenhuizen Zutphen,Den Elterweg,77,7207 AE,Zutphen,Ziekenhuis,Algemeen ziekenhuis,2,,7207 7207AE
+100302,100301 Albert Schweitzer,Albert Schweitzer locatie Zwijndrecht,Langeweg,336,3331 LZ,Zwijndrecht,Ziekenhuis,Algemeen ziekenhuis,2,,3331 3331LZ
+102902,102901 Isala klinieken,Isala Zwolle,Dokter van Heesweg,2,8025 AB,Zwolle,Ziekenhuis,Algemeen ziekenhuis,2,,8025 8025AB
